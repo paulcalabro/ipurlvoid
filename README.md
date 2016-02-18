@@ -20,7 +20,7 @@ Video: https://www.youtube.com/watch?v=Vga353we1kU
 	8.8.8.8: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	
 	
-	Ispecting domain google.com
+	Inspecting domain google.com
 	google.com: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	Inspecting related IP address(es) of domain google.com: 173.194.112.102...
 	173.194.112.102: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
@@ -62,7 +62,7 @@ Video: https://www.youtube.com/watch?v=Vga353we1kU
 	173.230.133.99: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	
 	
-	Ispecting domain bing.com
+	Inspecting domain bing.com
 	bing.com: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	Inspecting related IP address(es) of domain bing.com: 204.79.197.200...
 	204.79.197.200: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
@@ -76,19 +76,19 @@ Video: https://www.youtube.com/watch?v=Vga353we1kU
 	204.79.197.200: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	
 	
-	Ispecting domain ns.dunno-net.com
+	Inspecting domain ns.dunno-net.com
 	ns.dunno-net.com: [BLACKLISTED]  (4/27 detected this IP/URL as a threat)
 	Inspecting related IP address(es) of domain ns.dunno-net.com: 69.43.161.141...
 	69.43.161.141: [PROBABLY CLEAN]  (It seems this IP/URL is not a threat)
 	
 	
-	Ispecting domain penchatox.sin-ip.es
+	Inspecting domain penchatox.sin-ip.es
 	penchatox.sin-ip.es: [BLACKLISTED]  (2/27 detected this IP/URL as a threat)
 	Inspecting related IP address(es) of domain penchatox.sin-ip.es: 67.210.170.141...
 	67.210.170.141: [BLACKLISTED]  (2/37 detected this IP/URL as a threat)
 	
 	
-	Ispecting domain symconempkr.com
+	Inspecting domain symconempkr.com
 	symconempkr.com: [BLACKLISTED]  (5/27 detected this IP/URL as a threat)
 	Inspecting related IP address(es) of domain symconempkr.com: 194.116.174.85...
 	194.116.174.85: [BLACKLISTED]  (2/37 detected this IP/URL as a threat)
